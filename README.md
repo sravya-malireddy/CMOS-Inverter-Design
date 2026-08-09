@@ -121,7 +121,7 @@ Noise-margin behavior
 Transient analysis was performed using a pulsed input signal to observe the inverter's switching response.
 
 The output waveform was analyzed to understand the dynamic behavior of the CMOS inverter.
-<img width="891" height="746" alt="transient-response" src="https://github.com/user-attachments/assets/4d5c3942-86bc-4103-9dcc-c4be9a07830a" />
+<img width="300" height="300" alt="transient-response" src="https://github.com/user-attachments/assets/4d5c3942-86bc-4103-9dcc-c4be9a07830a" />
 Important timing characteristics include:
 
 Rise time
@@ -131,7 +131,9 @@ Propagation delay
 ## Physical Layout
 
 After schematic-level verification, the physical layout of the CMOS inverter was created using the Virtuoso Layout Suite.
-<img width="140" height="244" alt="layout" src="https://github.com/user-attachments/assets/2072b900-658e-4761-98a3-780ea36588bf" />
+
+<img width="300" height="500" alt="layout" src="https://github.com/user-attachments/assets/2072b900-658e-4761-98a3-780ea36588bf" />
+
 The layout incorporates the required CMOS layers and physical connections, including:
 
 PMOS region
