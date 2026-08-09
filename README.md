@@ -228,7 +228,7 @@ Designing and analyzing larger CMOS digital circuits
 
 
 ## Documentation
-Detailed project documentation is available in the docs/ directory.
+Detailed project documentation is available in the docs.
 
 Project Report
 Presentation
