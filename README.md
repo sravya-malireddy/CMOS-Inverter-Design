@@ -214,7 +214,9 @@ CMOS-Inverter-Design/
 │   ├── testbench.png
 │   ├── vtc-curve.png
 │   ├── transient-response.png
-│   |__ layout.png
+│   ├── layout.png
+│   ├── drc.png
+│   └── lvs.png
 │
 └── LICENSE
 
