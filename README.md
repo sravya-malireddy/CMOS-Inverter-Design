@@ -121,7 +121,9 @@ Noise-margin behavior
 Transient analysis was performed using a pulsed input signal to observe the inverter's switching response.
 
 The output waveform was analyzed to understand the dynamic behavior of the CMOS inverter.
+
 <img width="300" height="300" alt="transient-response" src="https://github.com/user-attachments/assets/4d5c3942-86bc-4103-9dcc-c4be9a07830a" />
+
 Important timing characteristics include:
 
 Rise time
